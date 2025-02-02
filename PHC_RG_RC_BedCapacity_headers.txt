@@ -1,0 +1,1 @@
+Patient CSN , Patient Class , Expected Arrival Date , Request Status , Target Destination , Time Between Request Start and Target Destination Bed Assign
